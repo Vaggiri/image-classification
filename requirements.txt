@@ -1,0 +1,5 @@
+fastapi==0.100.0
+uvicorn[standard]==0.21.1
+moondream==0.0.0  # replace with the real package name/version if different
+python-multipart==0.0.6
+Pillow==10.0.0
